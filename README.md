@@ -1,4 +1,4 @@
-# yelp
+# yelp data set
 Restaurant review
 # Synopsis and Techniques:
 ## Data Preparation: 
